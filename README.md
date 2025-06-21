@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vihan Pandya</h1>
-<h3 align="center">A passionate frontend developer and an AI expert from India</h3>
+<h3 align="center">A passionate AI developer from India</h3>
 
 - 🔭 I’m currently working on [FLOW AI](https://www.instagram.com/theflowai.in?igsh=a3Nxem84cXZoMHhp)
 
