@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vihan Pandya</h1>
 <h3 align="center">A passionate AI developer from India</h3>
 
-- 🔭 I’m currently working on Somthing 😉
+- 🔭 I’m currently working on...
 
 - 📫 How to reach me **vihanpandya01@gmail.com**
 
